@@ -9,6 +9,8 @@ Calendance is a mobile application designed for dancers to log their dance class
 
 
 🧩 Core Features
+
+
 🗓️ 1. Calendar-Based Dance Journal
 
 Monthly calendar view with daily entries.
@@ -28,6 +30,7 @@ Each session card includes:
 - Mood + Description
 - Optional music info (Spotify)
 
+
 ➕ 2. Upload / Add Record Page
 
 Add a new practice session with:
@@ -43,6 +46,7 @@ Add a new practice session with:
 - Local thumbnail generation
 
 “Save Session” writes to database and returns to calendar.
+
 
 📊 3. Analysis Dashboard
 
